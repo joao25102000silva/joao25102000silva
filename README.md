@@ -1,4 +1,5 @@
 ### Olá eu sou o João Vitor👋
+- 📚Cursando Sistemas de Informação
 <div>
   <a href="https://github.com/joao25102000silva">
     
